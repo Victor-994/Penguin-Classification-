@@ -9,3 +9,5 @@ Pandas
 Numpy
 Scikit-learn
 Pickle
+
+Check https://classification-of-penguins-app.herokuapp.com/ for end result
